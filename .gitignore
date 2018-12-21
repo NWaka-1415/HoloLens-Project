@@ -1,0 +1,9 @@
+Assembly-CSharp-Editor.csproj
+HoloLens Project.sln
+App/
+Temp/
+UWP/
+Library/
+Assets/Plugins/
+*.meta
+Assets/HoloToolkit/
